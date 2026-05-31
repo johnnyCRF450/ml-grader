@@ -1,0 +1,5 @@
+data/grader.db
+data/submissions/
+__pycache__/
+*.pyc
+.env
